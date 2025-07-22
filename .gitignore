@@ -1,0 +1,18 @@
+# Fichiers de build Java
+**/target/
+*.class
+*.log
+*.jar
+*.war
+
+# Fichiers d'IDE (Eclipse, IntelliJ)
+*.iml
+.idea/
+.metadata/
+*.classpath
+*.project
+.settings/
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
